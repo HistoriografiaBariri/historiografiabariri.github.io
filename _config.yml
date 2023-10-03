@@ -1,7 +1,7 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          Historiografia de Bariri
+bio:            'O objetivo deste site é disponibilizar textos e materias historiográficos raros de Bariri em formato digital.'
+description:    "O objetivo deste site é disponibilizar textos e materias historiográficos raros de Bariri em formato digital."
 picture:        'assets/img/Logo.png'
 locale:         en_US
 baseurl:        "/"

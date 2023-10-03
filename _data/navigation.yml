@@ -3,11 +3,11 @@
 - title: Home
   url: /
 
-- title: Blog
-  url: /blog/
+- title: Livros e Textos
+  url: /livros/
 
-- title: Projects
-  url: /projects/
+- title: Imagens e Fotos
+  url: /imagens/
 
-- title: About
-  url: /about/
+- title: Sobre
+  url: /sobre/
