@@ -4,7 +4,8 @@ bio:            'Just a simple Jekyll theme'
 description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            historiografiabariri.github.io
+baseurl:        "/"
+url:            "https://historiografiabariri.github.io"
 
 # Jekyll
 permalink:      /:title/
